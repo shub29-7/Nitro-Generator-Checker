@@ -1,4 +1,4 @@
-# Nitro-Generators
+# Nitro Generators
 This is a nitro generator that will open up soon. This was used with Python. Please do not change anything in the main script unless you have knowledge of python. Have questions or concerns? DM me on Discord: StodiusDev#9397
 
 
