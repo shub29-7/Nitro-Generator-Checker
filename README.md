@@ -16,6 +16,6 @@ Now all you have to do is open up the main.exe file and you can generate codes.
 
 *Note: It is not my fault if you lose your account or if you get banned by using this. I would use an alt account for these type of things.
 
-# Version 1.0
--Added nitro generator
+# Version 1.1
+-Added new colors for a nicer look
 Last updated 9/26/20
