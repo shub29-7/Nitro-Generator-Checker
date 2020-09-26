@@ -2,6 +2,9 @@
 This is a nitro generator that will open up soon. This was made with Python. Please do not change anything in the main script unless you have knowledge of python. Have questions or concerns? DM me on Discord: StodiusDev#0001
 
 # Set Up
+
+You can watch this YouTube video or you can look under this - https://www.youtube.com/watch?v=BWVRkSlgtBo&feature=youtu.be
+
 You need to download python - here's how you can check if you have it installed already.
     1. Open the Command Prompt by searching for "command prompt" in the windows search bar.
     2. Type "pip" and enter, if there's an error, you don't have it.
