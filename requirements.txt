@@ -1,0 +1,7 @@
+#DO NOT EDIT THIS WHATSOEVER!!!
+colorama==0.4.3
+requests==2.24.0
+random2==1.0.1
+import_string==0.1.0
+cache-stdout==0.6.0
+
