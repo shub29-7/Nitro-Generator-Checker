@@ -1,5 +1,5 @@
 # Nitro Generator by StodiusDev
-This is a nitro generator that will open up soon. This was made with Python. Please do not change anything in the main script unless you have knowledge of python. Have questions or concerns? DM me on Discord: StodiusDev#9397
+This is a nitro generator that will open up soon. This was made with Python. Please do not change anything in the main script unless you have knowledge of python. Have questions or concerns? DM me on Discord: StodiusDev#0001
 
 # Set Up
 You need to download python - here's how you can check if you have it installed already.
