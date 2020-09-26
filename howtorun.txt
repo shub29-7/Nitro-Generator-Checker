@@ -7,7 +7,6 @@ You need to download python - here's how you can check if you have it installed 
     2. Type "pip", if there's an error, you don't have it.
     3. If you do have it, it will start with showing you a bunch of commands.
 Don't have it installed? Go to - https://www.python.org/downloads/ - and download the latest version.
-If you do have it installed, you just have to open the main file.
 
 After that, go to "install" and open the file. Once it's done downloading you can open the main.exe file to generate 
 codes. 
