@@ -1,6 +1,12 @@
 # Nitro Generator by StodiusDev
 This is a nitro generator that will open up soon. This was made with Python. Please do not change anything in the main script unless you have knowledge of python. Have questions or concerns? DM me on Discord: StodiusDev#0001
 
+# Version 1.2
+-Added new colors for a nicer look
+-Added a checker than checks the codes too see if they are valid
+-Added booster codes
+Last updated 9/27/20
+
 # Set Up
 
 You can watch this YouTube video or you can look under this - https://www.youtube.com/watch?v=BWVRkSlgtBo&feature=youtu.be
@@ -14,8 +20,12 @@ Don't have it installed? Go to - https://www.python.org/downloads/ - and downloa
 After that, you need to go to "install" and it will install everything you need for the nitro gen.
 Now all you have to do is open up the main.exe file and you can generate codes.
 
-*Note: It is not my fault if you lose your account or if you get banned by using this. I would use an alt account for these type of things.
+# Checker
+How to use the checker:
+1. It'll ask you if you want to use the checker, press 2 and enter if you want to.
+2. It will check all of the codes you've generated. It will say if the code is invalid or not.
+3. Any codes that work will be in the validcodes.txt file.
 
-# Version 1.1
--Added new colors for a nicer look
-Last updated 9/26/20
+*Note: It is not my fault if you lose your account or if you get banned by using this. I would use an alt account for these type of things. Do not copy or reproduce this.
+
+
