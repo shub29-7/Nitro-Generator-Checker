@@ -28,4 +28,5 @@ How to use the checker:
 
 *Note: It is not my fault if you lose your account or if you get banned by using this. I would use an alt account for these type of things. Do not copy or reproduce this.
 
-
+# Donate
+Feeling generous or you've got extra money to spend? You can donate here (bitcoin)1NygpPxm44ck468zEZyKuMK3myFvcknDen
