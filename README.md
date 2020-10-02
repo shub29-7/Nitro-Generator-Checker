@@ -19,13 +19,13 @@ Don't have it installed? Go to - https://www.python.org/downloads/ - and downloa
 After that, you need to go to "install" and it will install everything you need for the nitro gen.
 Now all you have to do is open up the main.exe file and you can generate codes.
 
-# Checker
+<h2>✔️Checker</h2>
 How to use the checker:
 1. It'll ask you if you want to use the checker, press 2 and enter if you want to.
 2. It will check all of the codes you've generated. It will say if the code is invalid or not.
 3. Any codes that work will be in the validcodes.txt file.
 
-*Note: It is not my fault if you lose your account or if you get banned by using this. I would use an alt account for these type of things. Do not copy or reproduce this.
+*Note: It is not my fault if you lose your account or if you get banned by using this. I would use an alt account for these type of things. Do not copy or reproduce this. This is purely for education purposes.
 
-# Donate
+<h2>❤️Donate</h2>
 Feeling generous or you've got extra money to spend? You can donate here (bitcoin)1NygpPxm44ck468zEZyKuMK3myFvcknDen
