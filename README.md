@@ -9,7 +9,7 @@ Last updated 9/27/20
 
 <h2>💻Set up</h2>
 
-You can watch this YouTube video or you can look under this - https://www.youtube.com/watch?v=BWVRkSlgtBo&feature=youtu.be
+You can watch this YouTube video or you can look under this - https://www.youtube.com/watch?v=6BIka8W6J30&t=15s
 
 You need to download python - here's how you can check if you have it installed already.
     1. Open the Command Prompt by searching for "command prompt" in the windows search bar.
